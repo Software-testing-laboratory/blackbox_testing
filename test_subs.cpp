@@ -3,7 +3,7 @@ Uses cassert
 */ 
 
 #include<iostream>
-#include "calculator.cpp"
+#include "Calculator.cpp"
 #include <cassert>
 
 int main()

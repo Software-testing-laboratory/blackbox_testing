@@ -4,8 +4,13 @@
 #ifndef CALCULATOR_H
 #define CALCULATOR_H
 
-int add (int x, int y);
-int subs( int x, int y); 
+class Calculator {
+    public:
+	int sum(int x, int y);
+    int subs( int x, int y); 
+
+}; 
+
 
 #endif 
 
